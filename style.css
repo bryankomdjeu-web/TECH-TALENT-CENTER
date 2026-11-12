@@ -34,10 +34,15 @@ img{
 h2{
     color: orange;
      justify-content: center;
-   text-align: center;
-   margin-left: 400px;
-   margin-right: 400px;
+     align-items: center;
    place-items: center;
+   left: 0;
+    line-height: -50px;
+    margin-top: 200px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+   
 }
 ul li{
     color: white;
